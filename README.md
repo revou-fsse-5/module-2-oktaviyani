@@ -18,8 +18,8 @@ I love Cat & Dogs, below some awesome pictures, that you can enjoy
 
 <span style="color: pink; font-weight: bold;">Don't forget to always love animals in your area~~  .</span> :cat: :dog: :cat: :dog:
 
-Yey!!! my site available now!
-go visittt them >>>>>>>> :dog: :dog: https://oktadoghouse.netlify.app/
+Yey!!! my site available now! with new link, please checkyour link before connect
+go visittt them >>>>>>>> :dog: :dog: https://doghouseokta.netlify.app/
 
 This website about dog house
 People can book their need in our doghouse, so its available in our homepage
