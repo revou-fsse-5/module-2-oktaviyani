@@ -43,19 +43,54 @@ body {
 
 .bannerdesign p
 {
-    font-size: 50px;
+    font-size: 40px;
     color: #ffffff;
     text-align: center;
     margin: auto;
     background-color: #65ade9;
 }
 
+.bannerdesign p
+{
+    width: 80%;
+
+}
+
+.bannerdesign p:hover {
+    font-size: 50px;
+    font-family: Bangers, sans-serif;
+    background-color: #eb81c7;
+    animation: welcomeanimasi 2s ease;
+}
+
+@keyframes welcomeanimasi {
+    from {
+    width: 80%;
+    }
+
+    to {
+        width: 100%;
+    }
+}
+
+.bannerdesign img
+{
+    width: 100%;
+    max-width: 630px;
+    height: auto;
+    border-radius: 10px;
+    border-bottom-color: #65ade9;
+    padding-top: 100px;
+}
+
 h1 {
+    width: 80%;
     font-family: Bangers, sans-serif;
     text-align: center;
     color: #1aa19b;
     font-size: 38px;
     margin-top: 20px;
+    animation: welcomeanimasi 2s ease;
 }
 
 .header {
@@ -67,6 +102,7 @@ h1 {
     flex-direction: column;
     justify-content: center;
     padding-bottom: 20px;
+    width: 100%;
 
 }
 
@@ -330,6 +366,7 @@ form {
     font-size: 40px;
     margin top: 50px;
     padding: 50px;
+    position:
 }
 
 
@@ -454,6 +491,17 @@ ul li {
     h1 {
         font-size: 30px;
     }
+    .bannerdesign p
+    {
+        font-size: 30px;  
+    }
+
+    .bannerdesign p:hover {
+        font-size: 30px;
+        font-family: Bangers, sans-serif;
+        background-color: #eb81c7;
+        animation: welcomeanimasi 2s ease;
+    }
 }
 
 @media (max-width: 600px) 
@@ -464,6 +512,17 @@ ul li {
     h1 {
         font-size: 20px;
     }
+    .bannerdesign p
+    {
+        font-size: 20px;  
+    }
+
+    .bannerdesign p:hover {
+        font-size: 20px;
+        font-family: Bangers, sans-serif;
+        background-color: #eb81c7;
+        animation: welcomeanimasi 2s ease;
+    }
 }
 
 @media (max-width: 360px) 
@@ -471,6 +530,17 @@ ul li {
     nav ul {
         display: block;
     }
-    h1 {font-size: 10px;
-    }    
+    h1 {font-size: 15px;
+    }
+    .bannerdesign p
+    {
+        font-size: 15px;  
+    }
+    
+    .bannerdesign p:hover {
+        font-size: 15px;
+        font-family: Bangers, sans-serif;
+        background-color: #eb81c7;
+        animation: welcomeanimasi 2s ease;
+    }
 }

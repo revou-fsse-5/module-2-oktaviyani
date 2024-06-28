@@ -28,7 +28,11 @@ we also have some dog citizen that u can view in our website and its not for sal
 This business only contain playfullness
 
 
-This first assignment dont for get to review my responsive web, i use different font there are 2 type of font in this website, can you find it? i think both fonts its cool. sorry i dont have senses of art..
+This first assignment for the module 2, so im sorry for my senses of art, really low... hehehe :cat :dog
 
-and also the grid of our dog gallery.
+please forgive me, i will try to revise and learn some art later
 
+1. My responsive image you can try to resize your browser and check the head image
+2. for the animation , in the "welcome" word
+3. i try to add 2 fonts with link and font face
+4. and the last is the grid, but its still not responsive, i can use it, i need to fix it later
