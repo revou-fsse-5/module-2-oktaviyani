@@ -36,3 +36,6 @@ please forgive me, i will try to revise and learn some art later
 2. for the animation , in the "welcome" word
 3. i try to add 2 fonts with link and font face
 4. and the last is the grid, but its still not responsive, i can use it, i need to fix it later
+
+
+<a href="https://www.freepik.com/free-vector/colored-purebred-dogs-icon-set_4329617.htm#query=dog&position=4&from_view=keyword&track=sph&uuid=6fc2b26d-7d24-4d41-b5dd-68f511ede4b0">Image by macrovector on Freepik</a>

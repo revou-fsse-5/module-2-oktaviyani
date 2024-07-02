@@ -240,6 +240,7 @@ background-color: #65ceff;
 border-radius: 10px;
 }
 
+
 /* Note: Container yang kelompok breed anjing. */
 
 /* mau ganti ke grid
@@ -386,6 +387,18 @@ width: 100%;
 
 .grid-item img {
     width: 100%;
+
+}
+
+#maltese 
+{
+    grid-column-start: 1;
+    grid-column-end: 4;
+}
+
+#japanese {
+    grid-row-start: 1;
+    grid-row-end: 8;
 }
 
 .container2
@@ -502,6 +515,14 @@ ul li {
         background-color: #eb81c7;
         animation: welcomeanimasi 2s ease;
     }
+
+    .container3 {
+        flex-direction: column;
+    }
+
+    .container3 p {
+        text-align: center;
+    }
 }
 
 @media (max-width: 600px) 
@@ -523,6 +544,9 @@ ul li {
         background-color: #eb81c7;
         animation: welcomeanimasi 2s ease;
     }
+    .container3 {
+        flex-direction: column;
+    }
 }
 
 @media (max-width: 360px) 
@@ -542,5 +566,8 @@ ul li {
         font-family: Bangers, sans-serif;
         background-color: #eb81c7;
         animation: welcomeanimasi 2s ease;
+    }
+    .container3 {
+        flex-direction: column;
     }
 }
