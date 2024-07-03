@@ -8,7 +8,6 @@ body {
     width: 100%;
     height: 100vh;
     background-color:white;
-    background-image: url('backgroundh.png');
     background-repeat: repeat-x;
     padding-bottom: 2000px;
 }
@@ -44,10 +43,10 @@ body {
 .bannerdesign p
 {
     font-size: 40px;
-    color: #ffffff;
+    color: #69c3ff;
     text-align: center;
     margin: auto;
-    background-color: #65ade9;
+    background-color: #ffffff;
 }
 
 .bannerdesign p
@@ -57,7 +56,8 @@ body {
 }
 
 .bannerdesign p:hover {
-    font-size: 50px;
+    font-size: 80px;
+    color: white;
     font-family: Bangers, sans-serif;
     background-color: #eb81c7;
     animation: welcomeanimasi 2s ease;
@@ -75,12 +75,12 @@ body {
 
 .bannerdesign img
 {
-    width: 100%;
-    max-width: 630px;
+    width: 40%;
+    min-width: 300px;
     height: auto;
     border-radius: 10px;
     border-bottom-color: #65ade9;
-    padding-top: 100px;
+    padding-top: 50px;
 }
 
 h1 {
@@ -97,7 +97,7 @@ h1 {
     text-align: center;
     background-color: rgb(135, 195, 222);
     background-image: linear-gradient(to right, #65ade9, #fd89cd, #67f7d3, #e9e772);
-    height: 500px;
+    height: 80px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -108,7 +108,7 @@ h1 {
 
 .main {
     display: flex;
-    background-color: azure;
+    background-color: rgb(255, 255, 255);
     justify-content: center;
     text-align: center;
     flex-direction: column;
@@ -373,41 +373,78 @@ form {
 
 /*tugas grid*/
 
+.onekolom {
+    align-items: center;
+}
 .container-grid {
 
+    width: 1030px;
+    min-width: 500px;
+    margin: 50px auto;
+    border: 5px solid #333;
+    box-sizing: border-box;
+    padding: 5px;
     display: grid;
-    grid-template-columns: 200px 100px 200px 100px 150px 300px;
-    grid-template-rows: 300px 300px;
-    
+    grid-template-columns: 200px 200px 200px 200px 200px;
+    grid-template-rows: 250px 300px;
 }
 
 .grid-item {
-width: 100%;
+    align-items: center;
+    width: 100%;
 }
 
 .grid-item img {
+    align-items: center;
     width: 100%;
-
+    padding: 10px 10px 10px 10px;
+    margin: auto;
 }
 
-#maltese 
-{
-    grid-column-start: 1;
-    grid-column-end: 4;
-}
-
-#japanese {
+#Greyhound {
     grid-row-start: 1;
-    grid-row-end: 8;
+    grid-row-end: span 2;
 }
+#Havanese {
+    grid-row-start: 1;
+    grid-row-end: span 2;
+}
+
+#maltese   {
+    grid-row-start: 1;
+    grid-row-end: span 2;
+}
+
+#Spaniel {
+    grid-row-start: 1;
+    grid-row-end: span 2;
+}
+
+#Japanese-chin {
+    grid-row-start: 1;
+    grid-row-end: span 2;
+}
+
+
+.gridcontent {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    width: 100%;
+}
+
+
+
 
 .container2
 {
     width: 800px;
     margin: 50px auto;
-    background-color: white;
+    background-color: rgb(233, 176, 238);
+    background-image: url(shiba.jpg);
     box-sizing: border-box;
     display: flex;
+    padding-right: 30px;
 }
 
 .kolom-utama
@@ -440,7 +477,7 @@ width: 100%;
 .service 
 {
     width: 30%;
-    padding: 20px;
+    padding left: 20px;
     box-sizing: border-box;
     text-align: justify;
     color: white;
@@ -571,3 +608,4 @@ ul li {
         flex-direction: column;
     }
 }
+
