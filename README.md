@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2BREHFic)
 
-$${\color{lightblue}Light \space Blue}$$ H1 Welcome to doghouse.my.id ###
+$${\color{Welcome to doghouse.my.id}Light \space Blue}$$
 **About**
 This website is dedicated to all things related to Dog. Whether you're looking about play house dog house, enjoying all kinds of dog breed in house, buying merchandise, making dog community. Staying connect about healthy life style of the dog.
 
@@ -24,7 +24,7 @@ For any issues, questions, or feedback, please contact us at mail@doghouse.my.id
 **License**
 This project is licensed under the teamdogindonesia License - see the LICENSE file for details.
 
-**About the owner**
+$${\color{**About the owner**}Light \space Blue}$$
 
 Hello My name is **Okta**
 This is the assignment for module 2 assignment 2 for 5 july 2024
@@ -47,9 +47,13 @@ I love Cat & Dogs, below some awesome pictures, that you can enjoy
 Yey!!! my site available now! with new link, please checkyour link before connect
 go visittt them >>>>>>>> :dog: :dog: https://doghouseokta.netlify.app/
 
-i have goodnews, the website available now at www.doghouse.my.id
+
+$${\color{i have goodnews, the website available now at www.doghouse.my.id}Light \space Blue}$$
+
 
 **how to do of my homework**
+here
+
 **1. Registering to Netlify**
 
 Visit the Netlify Website: Go to Netlify's official website.
