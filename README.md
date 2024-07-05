@@ -1,6 +1,6 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2BREHFic)
 
-$${\color{Light Blue} Welcome to DOGHOUSE.MY.ID \space :dog  }$$
+$${\color{Light Blue} Welcome to \space DOGHOUSE.MY.ID }$$
 **About**
 This website is dedicated to all things related to Dog. Whether you're looking about play house dog house, enjoying all kinds of dog breed in house, buying merchandise, making dog community. Staying connect about healthy life style of the dog.
 
