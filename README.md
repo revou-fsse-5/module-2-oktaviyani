@@ -1,16 +1,16 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/2BREHFic)
 
-Welcome to [doghouse.my.id]!
-#About
+$${\color{lightblue}Light \space Blue}$$ H1 Welcome to doghouse.my.id ###
+**About**
 This website is dedicated to all things related to Dog. Whether you're looking about play house dog house, enjoying all kinds of dog breed in house, buying merchandise, making dog community. Staying connect about healthy life style of the dog.
 
-Features
+**Features**
 Product Reviews: the product in this website, is about dog services.
 Articles and Tips: Articles covering topics such as healthy dog, food, and others activity in doghouse.
 Why Dog Houses?
 Dog houses are essential for providing shelter and comfort to our beloved pets, especially when they spend time outdoors. Whether it's for protection from the elements or a cozy retreat, a dog house is a valuable addition to any dog owner's life.
 
-How to Use
+**How to Use**
 Navigation: Use the menu or search bar to find specific content.
 Explore: Browse different categories and tags to discover relevant articles and guides.
 Engage: Leave comments, share your own experiences, and connect with other dog owners.
@@ -18,15 +18,15 @@ Contributing.
 Booking: submit your schedule with our time
 We welcome contributions from the community! If you have expertise in dog houses, dog care, or related fields and would like to contribute an article, guide, or review, please reach out to us through mail@doghouse.my.id
 
-Support
+**Support**
 For any issues, questions, or feedback, please contact us at mail@doghouse.my.id. We strive to provide the best experience possible for our users and appreciate your input.
 
-License
+**License**
 This project is licensed under the teamdogindonesia License - see the LICENSE file for details.
 
-"About the owner"
+**About the owner**
 
-Hello My name is Okta
+Hello My name is **Okta**
 This is the assignment for module 2 assignment 2 for 5 july 2024
 please support my works
 
@@ -49,8 +49,8 @@ go visittt them >>>>>>>> :dog: :dog: https://doghouseokta.netlify.app/
 
 i have goodnews, the website available now at www.doghouse.my.id
 
-"how to do of my homework"
-1. Registering to Netlify
+**how to do of my homework**
+**1. Registering to Netlify**
 
 Visit the Netlify Website: Go to Netlify's official website.
 
@@ -70,7 +70,7 @@ since my register is not smooth as above, i'll explain some of my problem regist
 
 ![alt text](image.png)
 
-how to handle this?
+**how to handle this?**
 i suggest you to contat support to fix the problem and send some of the proving document by email. Netlify team will help you to fix it. Dont worry, we just need to wait at least 24 hours, but sometimes less. so after that try to login again.
 
 Voila!!
@@ -93,7 +93,7 @@ after its done, your site has been deploy
 easy and cheesyy (enjoy your new website in netlify)
 
 
-2. Connect custom domain from netlify using DNS setup
+**2. Connect custom domain from netlify using DNS setup**
 
 Now we need some upgrade of the website using custom domain, so i've paid a custom domain with doghouse.my.id after that i need to connect it to my source in netlify
 
